@@ -82,7 +82,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-06a-Animation
-Exercise for MSCH-C220, 6 April 2021
+Exercise for MSCH-C220, 12 April 2021
 
 An opportunity to play with animating 3D humanoid characters
 
@@ -102,5 +102,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Jalen Dre Slutzky
 ```
